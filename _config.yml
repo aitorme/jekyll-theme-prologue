@@ -31,12 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aitor Egurtzegi
-subtitle: computer vision researcher, computational & psycholinguist
+subtitle: Data science & analytics, NLP and computer vision
 description: >- # this means to ignore newlines until "baseurl:"
   Using computational and experimental methods to understand how language works
 author: Aitor Egurtzegi
 email: a.egurtzegi@gmail.com
-avatar: assets/images/headshot_2023.jpg
+avatar: assets/images/grad_headshot.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
