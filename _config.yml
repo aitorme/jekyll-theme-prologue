@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aitor Egurtzegi
-subtitle: Data science & analytics, NLP and computer vision
+subtitle: Data Science & Analytics, NLP and Computer Vision
 description: >- # this means to ignore newlines until "baseurl:"
   Using computational and experimental methods to understand how language works
 author: Aitor Egurtzegi
